@@ -1,0 +1,53 @@
+
+
+#nav {
+color: gray;
+}
+#home{
+	float: left;
+	padding-left: 100px;
+	padding-right: 100px;
+border-right: double;
+}
+
+#library {
+		float: left;
+	padding-right: 100px;
+border-right: double;
+padding-left: 100px;
+}
+
+#aboutMe {
+
+		float: left;
+	padding-right: 100px;
+border-right: double;
+padding-left: 100px;
+}
+
+#projects {
+float: left;
+padding-right: 100px;
+border-right: double;
+padding-left: 100px;
+}
+#contactMe{
+	float: left;
+padding-right: 100px;
+padding-left: 100px;
+
+}
+
+/*#pic1{
+	  
+}
+*/
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+
+  min-width: 100%;
+  min-height: 100%;
+}
